@@ -1,2 +1,2 @@
-# Lista-01
- Algoritmos - 1* Lista de Exercícios
+# Algoritmos
+  Lista 01
