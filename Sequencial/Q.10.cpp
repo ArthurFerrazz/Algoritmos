@@ -1,6 +1,6 @@
 /*Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer
-no plano, p1(x1,y1) e p2(x2,y2) e calcule a dist‚ncia entre eles, mostrando 4 casas
-decimais apÛs a vÌrgula, segundo a fÛrmula:*/
+no plano, p1(x1,y1) e p2(x2,y2) e calcule a dist√¢ncia entre eles, mostrando 4 casas
+decimais ap√≥s a v√≠rgula, segundo a f√≥rmula:*/
 
 #include<stdio.h>
 #include<math.h>
