@@ -1,5 +1,5 @@
-/*Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das
-seguintes médias de acordo com um valor numérico digitado pelo usuário e mostrado na tabela
+/*FaÃ§a um programa que leia trÃªs nÃºmeros inteiros positivos e efetue o cÃ¡lculo de uma das
+seguintes mÃ©dias de acordo com um valor numÃ©rico digitado pelo usuÃ¡rio e mostrado na tabela
 a seguir:*/
 
 #include <stdio.h>
@@ -11,7 +11,7 @@ int main(){
     int n[3];
     float calculo;
     
-    printf("Me forneça os 3 numeros tendo em mente que o ultimo so pode ser 1 ,2 ,3 :");
+    printf("Me forneÃ§a os 3 numeros tendo em mente que o ultimo so pode ser 1 ,2 ,3 :");
     scanf("%d%d%d",&n[0],&n[1],&n[2]);
     
     if(n[2] == 1){
