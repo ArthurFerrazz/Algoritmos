@@ -1,5 +1,5 @@
-/*Faça um programa que informe o mês de acordo com o número digitado pelo usuário.
-Exemplo: Entrada = 4. Saída = Abril.*/
+/*FaÃ§a um programa que informe o mÃªs de acordo com o nÃºmero digitado pelo usuÃ¡rio.
+Exemplo: Entrada = 4. SaÃ­da = Abril.*/
 
 #include <stdio.h>
 
